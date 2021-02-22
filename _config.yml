@@ -1,8 +1,8 @@
 # Site settings | 网站设置
 title: LynchLeo
-SEOTitle: LynchLeo的博客 | LynchLeo
+SEOTitle: LynchLeo的博客
 header-img: img/home-bg-he.png
-email: leonislynch@gmail.com \n lycnhleo@qq.com
+email: leonislynch@gmail.com
 description: "LynchLeo的博客"
 keyword: "LynchLeo, LynchLeo的博客, lynch leo, lynchleo, Python blog"
 url: "http://LynchLeo.github.io"          # your host, for absolute URL
