@@ -12,7 +12,7 @@ github_repo: "https://github.com/LynchLeo/LynchLeo.github.io.git" #code reposito
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "我再摸几天就去再摸几天。"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
